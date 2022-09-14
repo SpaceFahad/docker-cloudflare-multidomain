@@ -54,3 +54,4 @@ packages/**/lib
 /config.yml
 /config.json
 /.vscode
+docker/root/app/config.yaml
